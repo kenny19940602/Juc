@@ -1,7 +1,12 @@
-* 演示
-    * [后台管理](http://39.98.190.128/index.html)
-    * [移动端](http://39.98.190.128/mall-app/mainpage.html)
+* 码云地址
+    * [我的主页](http://gitee.com/kenny1994)
+    * [JUC](http://kenny1994.gitee.io/juc)
+    * [面试题整理_进行中](http://gitee.com/kenny1994)
+    * [springboot_进行中](http://gitee.com/kenny1994)
+    * [mysql_进行中](http://gitee.com/kenny1994)
 * 项目地址
-    * [后台项目](https://github.com/macrozheng/mall)
-    * [前端项目](https://github.com/macrozheng/mall-admin-web)
-    * [学习教程](https://github.com/macrozheng/mall-learning)
+    * [我的主页](https://github.com/kenny19940602)
+    * [JUC](https://kenny19940602.github.io/Juc/#/)
+    * [面试题整理_进行中](https://github.com/kenny19940602)
+    * [springboot_进行中](https://github.com/kenny19940602)
+    * [mysql_进行中](https://github.com/kenny19940602)
